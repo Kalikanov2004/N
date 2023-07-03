@@ -1,0 +1,14 @@
+C:\Users\PK10\source\repos\ZeroCountWpfApp\bin\Debug\ZeroCountWpfApp.exe.config
+C:\Users\PK10\source\repos\ZeroCountWpfApp\bin\Debug\ZeroCountWpfApp.exe
+C:\Users\PK10\source\repos\ZeroCountWpfApp\bin\Debug\ZeroCountWpfApp.pdb
+C:\Users\PK10\source\repos\ZeroCountWpfApp\obj\Debug\ZeroCountWpfApp.csproj.AssemblyReference.cache
+C:\Users\PK10\source\repos\ZeroCountWpfApp\obj\Debug\MainWindow.baml
+C:\Users\PK10\source\repos\ZeroCountWpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\PK10\source\repos\ZeroCountWpfApp\obj\Debug\App.g.cs
+C:\Users\PK10\source\repos\ZeroCountWpfApp\obj\Debug\ZeroCountWpfApp_MarkupCompile.cache
+C:\Users\PK10\source\repos\ZeroCountWpfApp\obj\Debug\ZeroCountWpfApp.g.resources
+C:\Users\PK10\source\repos\ZeroCountWpfApp\obj\Debug\ZeroCountWpfApp.Properties.Resources.resources
+C:\Users\PK10\source\repos\ZeroCountWpfApp\obj\Debug\ZeroCountWpfApp.csproj.GenerateResource.cache
+C:\Users\PK10\source\repos\ZeroCountWpfApp\obj\Debug\ZeroCountWpfApp.csproj.CoreCompileInputs.cache
+C:\Users\PK10\source\repos\ZeroCountWpfApp\obj\Debug\ZeroCountWpfApp.exe
+C:\Users\PK10\source\repos\ZeroCountWpfApp\obj\Debug\ZeroCountWpfApp.pdb

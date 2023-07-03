@@ -1,0 +1,9 @@
+﻿<Window x:Class="ZeroCountWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Name="CountButton" Content="Count Zeroes" Click="CountButton_Click" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100" Height="30"/>
+        <TextBlock Name="ResultTextBlock" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,50,0,0"/>
+    </Grid>
+</Window>
